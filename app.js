@@ -1,4 +1,3 @@
-// const cheerio = require('cheerio');
 import cheerioModule from "cheerio";
 import config from "./config.js";
 import {get} from "./apiClient.js";
