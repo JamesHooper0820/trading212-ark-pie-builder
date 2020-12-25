@@ -14,15 +14,21 @@ const arkShortcodeLookup = {
     'ARKF': 'ARK_FINTECH_INNOVATION_ETF_ARKF_HOLDINGS'
 }
 const arkUrl = `https://ark-funds.com/wp-content/fundsiteliterature/csv/${arkShortcodeLookup[config.arkCode]}.csv`
+const alternativeTickers = {
+    'RHHBY': 'ROG'
+}
 
 async function getTrading212Stocks() {
     const html = await get(config.t212Url)
     const $ = cheerioModule.load(html);
     const codes = $('#all-equities > .js-search-row');
     codes.each(function() {
-        const company = $(this).find('[data-label="Company"]').text()
-        const ticker = $(this).find('[data-label="Instrument"]').text()
-        acceptableCodes.push({ticker: ticker, company: company})
+        const isFractional = parseFloat($(this).find('div:nth-child(5)').text()) < 1
+        if(isFractional) {
+            const company = $(this).find('[data-label="Company"]').text()
+            const ticker = $(this).find('[data-label="Instrument"]').text()
+            acceptableCodes.push({ticker: ticker, company: company})
+        }
     })
 }
 
@@ -32,7 +38,7 @@ async function getArkStocks() {
             const tickersAndWeights = []
             rows.forEach(row => {
                 if(row.ticker && row["weight(%)"] && row.company) {
-                    tickersAndWeights.push({ticker: row.ticker, weight: parseFloat(row["weight(%)"]), company: row.company})
+                    tickersAndWeights.push({ticker: row.ticker.split(" ")[0], weight: parseFloat(row["weight(%)"]), company: row.company})
                 }
             })
 
@@ -43,7 +49,17 @@ async function getArkStocks() {
 
 const siftStocks = () => {
     const tickersOnly = acceptableCodes.map(code => code.ticker)
-    return arkData.filter(data => tickersOnly.includes(data.ticker))
+    const matched = arkData.filter(data => tickersOnly.includes(data.ticker))
+    const alternatives = []
+    for(const [key, value] of Object.entries(alternativeTickers)) {
+        const alternative = arkData.filter(data => data.ticker === key)
+        if(alternative && alternative.length) {
+            alternative[0].ticker = value
+            alternatives.push(alternative[0])
+        }
+    }
+
+    return matched.concat(alternatives)
 }
 
 const weightStocks = (siftedStocks) => {
