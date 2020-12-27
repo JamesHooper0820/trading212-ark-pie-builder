@@ -17,6 +17,9 @@ const arkUrl = `https://ark-funds.com/wp-content/fundsiteliterature/csv/${arkSho
 const alternativeTickers = {
     'RHHBY': 'ROG'
 }
+const blacklist = [
+    'DSY'
+]
 
 async function getTrading212Stocks() {
     const html = await get(config.t212Url)
@@ -24,7 +27,9 @@ async function getTrading212Stocks() {
     const codes = $('#all-equities > .js-search-row');
     codes.each(function() {
         const isFractional = parseFloat($(this).find('div:nth-child(5)').text()) < 1
-        if(isFractional) {
+        const marketName = $(this).find('[data-label="Market name"]').text()
+        const isAllowedInIsa = !marketName.includes('OTC Markets') && !marketName.includes('NON-ISA')
+        if(isFractional && isAllowedInIsa) {
             const company = $(this).find('[data-label="Company"]').text()
             const ticker = $(this).find('[data-label="Instrument"]').text()
             acceptableCodes.push({ticker: ticker, company: company})
@@ -49,7 +54,7 @@ async function getArkStocks() {
 
 const siftStocks = () => {
     const tickersOnly = acceptableCodes.map(code => code.ticker)
-    const matched = arkData.filter(data => tickersOnly.includes(data.ticker))
+    const matched = arkData.filter(data => tickersOnly.includes(data.ticker) && !blacklist.includes(data.ticker))
     const alternatives = []
     for(const [key, value] of Object.entries(alternativeTickers)) {
         const alternative = arkData.filter(data => data.ticker === key)
