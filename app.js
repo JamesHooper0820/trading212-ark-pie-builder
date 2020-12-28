@@ -146,5 +146,5 @@ const printResults = (args) => {
     } else {
         printResults({newAdditions: weightedStocks})
     }
-    fs.writeFileSync(filename, JSON.stringify(weightedStocks))
+    fs.writeFileSync(filename, JSON.stringify(weightedStocks, null ,2))
 })()
