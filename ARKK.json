@@ -1,63 +1,63 @@
 [
   {
     "ticker": "TSLA",
-    "weight": 10.3,
+    "weight": 9.4,
     "company": "TESLA INC"
   },
   {
     "ticker": "ROKU",
-    "weight": 7.3,
+    "weight": 7.7,
     "company": "ROKU INC"
   },
   {
+    "ticker": "TDOC",
+    "weight": 5.2,
+    "company": "TELADOC HEALTH INC"
+  },
+  {
     "ticker": "CRSP",
-    "weight": 6.1,
+    "weight": 5.1,
     "company": "CRISPR THERAPEUTICS AG"
   },
   {
     "ticker": "SQ",
-    "weight": 5.5,
+    "weight": 4.9,
     "company": "SQUARE INC - A"
   },
   {
     "ticker": "NVTA",
-    "weight": 4.7,
+    "weight": 4.3,
     "company": "INVITAE CORP"
   },
   {
-    "ticker": "TDOC",
-    "weight": 4.6,
-    "company": "TELADOC HEALTH INC"
-  },
-  {
     "ticker": "Z",
-    "weight": 3.4,
+    "weight": 3.3,
     "company": "ZILLOW GROUP INC - C"
   },
   {
-    "ticker": "EDIT",
-    "weight": 3.3,
-    "company": "EDITAS MEDICINE INC"
-  },
-  {
-    "ticker": "PRLB",
-    "weight": 3.3,
-    "company": "PROTO LABS INC"
-  },
-  {
-    "ticker": "PSTG",
-    "weight": 3.1,
-    "company": "PURE STORAGE INC - CLASS A"
-  },
-  {
     "ticker": "SPOT",
-    "weight": 3,
+    "weight": 3.1,
     "company": "SPOTIFY TECHNOLOGY SA"
   },
   {
-    "ticker": "IOVA",
+    "ticker": "PRLB",
+    "weight": 2.9,
+    "company": "PROTO LABS INC"
+  },
+  {
+    "ticker": "TWST",
     "weight": 2.6,
-    "company": "IOVANCE BIOTHERAPEUTICS INC"
+    "company": "TWIST BIOSCIENCE CORP"
+  },
+  {
+    "ticker": "PYPL",
+    "weight": 2.6,
+    "company": "PAYPAL HOLDINGS INC"
+  },
+  {
+    "ticker": "SHOP",
+    "weight": 2.6,
+    "company": "SHOPIFY INC - CLASS A"
   },
   {
     "ticker": "TWLO",
@@ -65,19 +65,24 @@
     "company": "TWILIO INC - A"
   },
   {
-    "ticker": "NTLA",
+    "ticker": "PSTG",
     "weight": 2.5,
-    "company": "INTELLIA THERAPEUTICS INC"
-  },
-  {
-    "ticker": "TWST",
-    "weight": 2.5,
-    "company": "TWIST BIOSCIENCE CORP"
+    "company": "PURE STORAGE INC - CLASS A"
   },
   {
     "ticker": "EXAS",
-    "weight": 2.3,
+    "weight": 2.4,
     "company": "EXACT SCIENCES CORP"
+  },
+  {
+    "ticker": "ZM",
+    "weight": 2.4,
+    "company": "ZOOM VIDEO COMMUNICATIONS-A"
+  },
+  {
+    "ticker": "NTLA",
+    "weight": 2.3,
+    "company": "INTELLIA THERAPEUTICS INC"
   },
   {
     "ticker": "DOCU",
@@ -85,103 +90,118 @@
     "company": "DOCUSIGN INC"
   },
   {
-    "ticker": "PYPL",
-    "weight": 2.2,
-    "company": "PAYPAL HOLDINGS INC"
+    "ticker": "IOVA",
+    "weight": 2.3,
+    "company": "IOVANCE BIOTHERAPEUTICS INC"
   },
   {
-    "ticker": "SHOP",
+    "ticker": "EDIT",
     "weight": 2.2,
-    "company": "SHOPIFY INC - CLASS A"
-  },
-  {
-    "ticker": "PD",
-    "weight": 2.2,
-    "company": "PAGERDUTY INC"
+    "company": "EDITAS MEDICINE INC"
   },
   {
     "ticker": "TREE",
-    "weight": 2.1,
+    "weight": 2,
     "company": "LENDINGTREE INC"
   },
   {
+    "ticker": "PD",
+    "weight": 1.9,
+    "company": "PAGERDUTY INC"
+  },
+  {
     "ticker": "TWOU",
-    "weight": 2.1,
+    "weight": 1.8,
     "company": "2U INC"
   },
   {
     "ticker": "ICE",
-    "weight": 1.9,
+    "weight": 1.8,
     "company": "INTERCONTINENTAL EXCHANGE IN"
   },
   {
-    "ticker": "VCYT",
-    "weight": 1.8,
-    "company": "VERACYTE INC"
-  },
-  {
     "ticker": "U",
-    "weight": 1.7,
+    "weight": 1.5,
     "company": "UNITY SOFTWARE INC"
   },
   {
-    "ticker": "ZM",
-    "weight": 1.4,
-    "company": "ZOOM VIDEO COMMUNICATIONS-A"
-  },
-  {
-    "ticker": "MCRB",
-    "weight": 1.4,
-    "company": "SERES THERAPEUTICS INC"
-  },
-  {
     "ticker": "PACB",
-    "weight": 1.4,
+    "weight": 1.5,
     "company": "PACIFIC BIOSCIENCES OF CALIF"
   },
   {
-    "ticker": "SPLK",
-    "weight": 1.3,
-    "company": "SPLUNK INC"
-  },
-  {
-    "ticker": "IRDM",
-    "weight": 1.3,
-    "company": "IRIDIUM COMMUNICATIONS INC"
-  },
-  {
-    "ticker": "NSTG",
-    "weight": 1.2,
-    "company": "NANOSTRING TECHNOLOGIES INC"
-  },
-  {
-    "ticker": "SNPS",
-    "weight": 1.2,
-    "company": "SYNOPSYS INC"
-  },
-  {
-    "ticker": "PINS",
-    "weight": 1.1,
-    "company": "PINTEREST INC- CLASS A"
-  },
-  {
-    "ticker": "CERS",
-    "weight": 1.1,
-    "company": "CERUS CORP"
-  },
-  {
     "ticker": "SSYS",
-    "weight": 1.1,
+    "weight": 1.5,
     "company": "STRATASYS LTD"
   },
   {
+    "ticker": "IRDM",
+    "weight": 1.5,
+    "company": "IRIDIUM COMMUNICATIONS INC"
+  },
+  {
+    "ticker": "TXG",
+    "weight": 1.5,
+    "company": "10X GENOMICS INC-CLASS A"
+  },
+  {
+    "ticker": "VCYT",
+    "weight": 1.5,
+    "company": "VERACYTE INC"
+  },
+  {
+    "ticker": "REGN",
+    "weight": 1.4,
+    "company": "REGENERON PHARMACEUTICALS"
+  },
+  {
+    "ticker": "PINS",
+    "weight": 1.3,
+    "company": "PINTEREST INC- CLASS A"
+  },
+  {
+    "ticker": "SNPS",
+    "weight": 1.3,
+    "company": "SYNOPSYS INC"
+  },
+  {
+    "ticker": "SPLK",
+    "weight": 1.2,
+    "company": "SPLUNK INC"
+  },
+  {
+    "ticker": "MCRB",
+    "weight": 1.2,
+    "company": "SERES THERAPEUTICS INC"
+  },
+  {
+    "ticker": "CERS",
+    "weight": 0.9,
+    "company": "CERUS CORP"
+  },
+  {
+    "ticker": "NSTG",
+    "weight": 0.9,
+    "company": "NANOSTRING TECHNOLOGIES INC"
+  },
+  {
     "ticker": "CGEN",
-    "weight": 1.1,
+    "weight": 0.9,
     "company": "COMPUGEN LTD"
   },
   {
+    "ticker": "NVS",
+    "weight": 0.9,
+    "company": "NOVARTIS AG-SPONSORED ADR"
+  },
+  {
     "ticker": "SYRS",
-    "weight": 0.7,
+    "weight": 0.6,
     "company": "SYROS PHARMACEUTICALS INC"
+  },
+  {
+    "ticker": "FATE",
+    "weight": 0.5,
+    "company": "FATE THERAPEUTICS INC"
   }
 ]

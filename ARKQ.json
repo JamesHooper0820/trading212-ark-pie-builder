@@ -1,0 +1,147 @@
+[
+  {
+    "ticker": "TSLA",
+    "weight": 12.6,
+    "company": "TESLA INC"
+  },
+  {
+    "ticker": "TRMB",
+    "weight": 5.8,
+    "company": "TRIMBLE INC"
+  },
+  {
+    "ticker": "DE",
+    "weight": 5.6,
+    "company": "DEERE & CO"
+  },
+  {
+    "ticker": "IRDM",
+    "weight": 4.7,
+    "company": "IRIDIUM COMMUNICATIONS INC"
+  },
+  {
+    "ticker": "GOOG",
+    "weight": 4.6,
+    "company": "ALPHABET INC-CL C"
+  },
+  {
+    "ticker": "NXPI",
+    "weight": 4.4,
+    "company": "NXP SEMICONDUCTORS NV"
+  },
+  {
+    "ticker": "AVAV",
+    "weight": 4,
+    "company": "AEROVIRONMENT INC"
+  },
+  {
+    "ticker": "CAT",
+    "weight": 3.9,
+    "company": "CATERPILLAR INC"
+  },
+  {
+    "ticker": "WKHS",
+    "weight": 3.5,
+    "company": "WORKHORSE GROUP INC"
+  },
+  {
+    "ticker": "SPCE",
+    "weight": 3.5,
+    "company": "VIRGIN GALACTIC HOLDINGS INC"
+  },
+  {
+    "ticker": "SSYS",
+    "weight": 3.5,
+    "company": "STRATASYS LTD"
+  },
+  {
+    "ticker": "TWOU",
+    "weight": 3.4,
+    "company": "2U INC"
+  },
+  {
+    "ticker": "PRLB",
+    "weight": 3.3,
+    "company": "PROTO LABS INC"
+  },
+  {
+    "ticker": "TER",
+    "weight": 3,
+    "company": "TERADYNE INC"
+  },
+  {
+    "ticker": "SNPS",
+    "weight": 3,
+    "company": "SYNOPSYS INC"
+  },
+  {
+    "ticker": "FLIR",
+    "weight": 2.8,
+    "company": "FLIR SYSTEMS INC"
+  },
+  {
+    "ticker": "LMT",
+    "weight": 2.7,
+    "company": "LOCKHEED MARTIN CORP"
+  },
+  {
+    "ticker": "ANSS",
+    "weight": 2.5,
+    "company": "ANSYS INC"
+  },
+  {
+    "ticker": "NVDA",
+    "weight": 2.5,
+    "company": "NVIDIA CORP"
+  },
+  {
+    "ticker": "XLNX",
+    "weight": 2.5,
+    "company": "XILINX INC"
+  },
+  {
+    "ticker": "ISRG",
+    "weight": 2.3,
+    "company": "INTUITIVE SURGICAL INC"
+  },
+  {
+    "ticker": "AMZN",
+    "weight": 2.3,
+    "company": "AMAZON.COM INC"
+  },
+  {
+    "ticker": "ESLT",
+    "weight": 2.3,
+    "company": "ELBIT SYSTEMS LTD"
+  },
+  {
+    "ticker": "ROK",
+    "weight": 2.3,
+    "company": "ROCKWELL AUTOMATION INC"
+  },
+  {
+    "ticker": "AAPL",
+    "weight": 2.3,
+    "company": "APPLE INC"
+  },
+  {
+    "ticker": "ADSK",
+    "weight": 2.2,
+    "company": "AUTODESK INC"
+  },
+  {
+    "ticker": "HON",
+    "weight": 1.7,
+    "company": "HONEYWELL INTERNATIONAL INC"
+  },
+  {
+    "ticker": "EXPC",
+    "weight": 1.4,
+    "company": "EXPERIENCE INVESTMENT CORP-A"
+  },
+  {
+    "ticker": "SPLK",
+    "weight": 1.3,
+    "company": "SPLUNK INC"
+  }
+]

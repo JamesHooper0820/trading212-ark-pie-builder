@@ -1,0 +1,217 @@
+[
+  {
+    "ticker": "PACB",
+    "weight": 6.9,
+    "company": "PACIFIC BIOSCIENCES OF CALIF"
+  },
+  {
+    "ticker": "TWST",
+    "weight": 6.9,
+    "company": "TWIST BIOSCIENCE CORP"
+  },
+  {
+    "ticker": "TDOC",
+    "weight": 6.7,
+    "company": "TELADOC HEALTH INC"
+  },
+  {
+    "ticker": "CRSP",
+    "weight": 4.8,
+    "company": "CRISPR THERAPEUTICS AG"
+  },
+  {
+    "ticker": "CDNA",
+    "weight": 4.4,
+    "company": "CAREDX INC"
+  },
+  {
+    "ticker": "REGN",
+    "weight": 4,
+    "company": "REGENERON PHARMACEUTICALS"
+  },
+  {
+    "ticker": "FATE",
+    "weight": 3.9,
+    "company": "FATE THERAPEUTICS INC"
+  },
+  {
+    "ticker": "EXAS",
+    "weight": 3.8,
+    "company": "EXACT SCIENCES CORP"
+  },
+  {
+    "ticker": "IOVA",
+    "weight": 3.5,
+    "company": "IOVANCE BIOTHERAPEUTICS INC"
+  },
+  {
+    "ticker": "NVTA",
+    "weight": 3.3,
+    "company": "INVITAE CORP"
+  },
+  {
+    "ticker": "VRTX",
+    "weight": 3.1,
+    "company": "VERTEX PHARMACEUTICALS INC"
+  },
+  {
+    "ticker": "NVS",
+    "weight": 3,
+    "company": "NOVARTIS AG-SPONSORED ADR"
+  },
+  {
+    "ticker": "ARCT",
+    "weight": 2.7,
+    "company": "ARCTURUS THERAPEUTICS HOLDIN"
+  },
+  {
+    "ticker": "GOOGL",
+    "weight": 2.1,
+    "company": "ALPHABET INC-CL A"
+  },
+  {
+    "ticker": "INCY",
+    "weight": 2.1,
+    "company": "INCYTE CORP"
+  },
+  {
+    "ticker": "PSTG",
+    "weight": 2,
+    "company": "PURE STORAGE INC - CLASS A"
+  },
+  {
+    "ticker": "CSTL",
+    "weight": 2,
+    "company": "CASTLE BIOSCIENCES INC"
+  },
+  {
+    "ticker": "NTLA",
+    "weight": 1.9,
+    "company": "INTELLIA THERAPEUTICS INC"
+  },
+  {
+    "ticker": "IONS",
+    "weight": 1.8,
+    "company": "IONIS PHARMACEUTICALS INC"
+  },
+  {
+    "ticker": "BLI",
+    "weight": 1.8,
+    "company": "BERKELEY LIGHTS INC"
+  },
+  {
+    "ticker": "ACCD",
+    "weight": 1.7,
+    "company": "ACCOLADE INC"
+  },
+  {
+    "ticker": "SDGR",
+    "weight": 1.7,
+    "company": "SCHRODINGER INC"
+  },
+  {
+    "ticker": "BMY",
+    "weight": 1.7,
+    "company": "BRISTOL-MYERS SQUIBB CO"
+  },
+  {
+    "ticker": "SRPT",
+    "weight": 1.6,
+    "company": "SAREPTA THERAPEUTICS INC"
+  },
+  {
+    "ticker": "BEAM",
+    "weight": 1.6,
+    "company": "BEAM THERAPEUTICS INC"
+  },
+  {
+    "ticker": "EDIT",
+    "weight": 1.4,
+    "company": "EDITAS MEDICINE INC"
+  },
+  {
+    "ticker": "CDXS",
+    "weight": 1.4,
+    "company": "CODEXIS INC"
+  },
+  {
+    "ticker": "ADPT",
+    "weight": 1.4,
+    "company": "ADAPTIVE BIOTECHNOLOGIES"
+  },
+  {
+    "ticker": "VEEV",
+    "weight": 1.4,
+    "company": "VEEVA SYSTEMS INC-CLASS A"
+  },
+  {
+    "ticker": "TXG",
+    "weight": 1.3,
+    "company": "10X GENOMICS INC-CLASS A"
+  },
+  {
+    "ticker": "TMO",
+    "weight": 1.3,
+    "company": "THERMO FISHER SCIENTIFIC INC"
+  },
+  {
+    "ticker": "VCYT",
+    "weight": 1.3,
+    "company": "VERACYTE INC"
+  },
+  {
+    "ticker": "GH",
+    "weight": 1.2,
+    "company": "GUARDANT HEALTH INC"
+  },
+  {
+    "ticker": "AQB",
+    "weight": 1.1,
+    "company": "AQUABOUNTY TECHNOLOGIES"
+  },
+  {
+    "ticker": "MCRB",
+    "weight": 1,
+    "company": "SERES THERAPEUTICS INC"
+  },
+  {
+    "ticker": "NSTG",
+    "weight": 1,
+    "company": "NANOSTRING TECHNOLOGIES INC"
+  },
+  {
+    "ticker": "CGEN",
+    "weight": 0.9,
+    "company": "COMPUGEN LTD"
+  },
+  {
+    "ticker": "CERS",
+    "weight": 0.8,
+    "company": "CERUS CORP"
+  },
+  {
+    "ticker": "SYRS",
+    "weight": 0.7,
+    "company": "SYROS PHARMACEUTICALS INC"
+  },
+  {
+    "ticker": "SURF",
+    "weight": 0.6,
+    "company": "SURFACE ONCOLOGY INC"
+  },
+  {
+    "ticker": "LGVW",
+    "weight": 0.6,
+    "company": "LONGVIEW ACQUISITION CORP-A"
+  },
+  {
+    "ticker": "ONEM",
+    "weight": 0.3,
+    "company": "1LIFE HEALTHCARE INC"
+  },
+  {
+    "ticker": "ROG",
+    "weight": 3.4,
+    "company": "ROCHE HOLDINGS LTD-SPONS ADR"
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "ticker": "TSLA",
+    "weight": 10.2,
+    "company": "TESLA INC"
+  },
+  {
+    "ticker": "ROKU",
+    "weight": 6,
+    "company": "ROKU INC"
+  },
+  {
+    "ticker": "SQ",
+    "weight": 4.6,
+    "company": "SQUARE INC - A"
+  },
+  {
+    "ticker": "TDOC",
+    "weight": 4.3,
+    "company": "TELADOC HEALTH INC"
+  },
+  {
+    "ticker": "SPOT",
+    "weight": 3.5,
+    "company": "SPOTIFY TECHNOLOGY SA"
+  },
+  {
+    "ticker": "NFLX",
+    "weight": 2.9,
+    "company": "NETFLIX INC"
+  },
+  {
+    "ticker": "PSTG",
+    "weight": 2.9,
+    "company": "PURE STORAGE INC - CLASS A"
+  },
+  {
+    "ticker": "FB",
+    "weight": 2.7,
+    "company": "FACEBOOK INC-CLASS A"
+  },
+  {
+    "ticker": "PINS",
+    "weight": 2.6,
+    "company": "PINTEREST INC- CLASS A"
+  },
+  {
+    "ticker": "FSLY",
+    "weight": 2.6,
+    "company": "FASTLY INC - CLASS A"
+  },
+  {
+    "ticker": "PYPL",
+    "weight": 2.6,
+    "company": "PAYPAL HOLDINGS INC"
+  },
+  {
+    "ticker": "ZM",
+    "weight": 2.6,
+    "company": "ZOOM VIDEO COMMUNICATIONS-A"
+  },
+  {
+    "ticker": "ICE",
+    "weight": 2.5,
+    "company": "INTERCONTINENTAL EXCHANGE IN"
+  },
+  {
+    "ticker": "Z",
+    "weight": 2.5,
+    "company": "ZILLOW GROUP INC - C"
+  },
+  {
+    "ticker": "TWLO",
+    "weight": 2.4,
+    "company": "TWILIO INC - A"
+  },
+  {
+    "ticker": "SHOP",
+    "weight": 2.4,
+    "company": "SHOPIFY INC - CLASS A"
+  },
+  {
+    "ticker": "SNAP",
+    "weight": 2.4,
+    "company": "SNAP INC - A"
+  },
+  {
+    "ticker": "DOCU",
+    "weight": 2.3,
+    "company": "DOCUSIGN INC"
+  },
+  {
+    "ticker": "TREE",
+    "weight": 2.3,
+    "company": "LENDINGTREE INC"
+  },
+  {
+    "ticker": "OPEN",
+    "weight": 2.2,
+    "company": "OPENDOOR TECHNOLOGIES INC"
+  },
+  {
+    "ticker": "PD",
+    "weight": 2.2,
+    "company": "PAGERDUTY INC"
+  },
+  {
+    "ticker": "NVDA",
+    "weight": 1.9,
+    "company": "NVIDIA CORP"
+  },
+  {
+    "ticker": "VCYT",
+    "weight": 1.9,
+    "company": "VERACYTE INC"
+  },
+  {
+    "ticker": "TWOU",
+    "weight": 1.8,
+    "company": "2U INC"
+  },
+  {
+    "ticker": "BABA",
+    "weight": 1.8,
+    "company": "ALIBABA GROUP HOLDING-SP ADR"
+  },
+  {
+    "ticker": "U",
+    "weight": 1.7,
+    "company": "UNITY SOFTWARE INC"
+  },
+  {
+    "ticker": "MELI",
+    "weight": 1.7,
+    "company": "MERCADOLIBRE INC"
+  },
+  {
+    "ticker": "PTON",
+    "weight": 1.7,
+    "company": "PELOTON INTERACTIVE INC-A"
+  },
+  {
+    "ticker": "CRM",
+    "weight": 1.7,
+    "company": "SALESFORCE.COM INC"
+  },
+  {
+    "ticker": "TTD",
+    "weight": 1.6,
+    "company": "TRADE DESK INC/THE -CLASS A"
+  },
+  {
+    "ticker": "ADBE",
+    "weight": 1.6,
+    "company": "ADOBE INC"
+  },
+  {
+    "ticker": "NET",
+    "weight": 1.5,
+    "company": "CLOUDFLARE INC - CLASS A"
+  },
+  {
+    "ticker": "CRWD",
+    "weight": 1.5,
+    "company": "CROWDSTRIKE HOLDINGS INC - A"
+  },
+  {
+    "ticker": "SPLK",
+    "weight": 1.5,
+    "company": "SPLUNK INC"
+  },
+  {
+    "ticker": "HUBS",
+    "weight": 1.5,
+    "company": "HUBSPOT INC"
+  },
+  {
+    "ticker": "AAPL",
+    "weight": 1.5,
+    "company": "APPLE INC"
+  },
+  {
+    "ticker": "TEAM",
+    "weight": 1.4,
+    "company": "ATLASSIAN CORP PLC-CLASS A"
+  },
+  {
+    "ticker": "SNPS",
+    "weight": 1.4,
+    "company": "SYNOPSYS INC"
+  },
+  {
+    "ticker": "OKTA",
+    "weight": 1.4,
+    "company": "OKTA INC"
+  },
+  {
+    "ticker": "PLTR",
+    "weight": 1.3,
+    "company": "PALANTIR TECHNOLOGIES INC-A"
+  },
+  {
+    "ticker": "SKLZ",
+    "weight": 0.9,
+    "company": "SKILLZ INC"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "ticker": "SQ",
+    "weight": 10.8,
+    "company": "SQUARE INC - A"
+  },
+  {
+    "ticker": "MELI",
+    "weight": 6,
+    "company": "MERCADOLIBRE INC"
+  },
+  {
+    "ticker": "Z",
+    "weight": 5.7,
+    "company": "ZILLOW GROUP INC - C"
+  },
+  {
+    "ticker": "ICE",
+    "weight": 5.2,
+    "company": "INTERCONTINENTAL EXCHANGE IN"
+  },
+  {
+    "ticker": "PINS",
+    "weight": 5,
+    "company": "PINTEREST INC- CLASS A"
+  },
+  {
+    "ticker": "PYPL",
+    "weight": 4.9,
+    "company": "PAYPAL HOLDINGS INC"
+  },
+  {
+    "ticker": "ADYEN",
+    "weight": 4.4,
+    "company": "ADYEN NV"
+  },
+  {
+    "ticker": "BABA",
+    "weight": 4.1,
+    "company": "ALIBABA GROUP HOLDING-SP ADR"
+  },
+  {
+    "ticker": "TWLO",
+    "weight": 3.8,
+    "company": "TWILIO INC - A"
+  },
+  {
+    "ticker": "DOCU",
+    "weight": 3.6,
+    "company": "DOCUSIGN INC"
+  },
+  {
+    "ticker": "AMZN",
+    "weight": 3.5,
+    "company": "AMAZON.COM INC"
+  },
+  {
+    "ticker": "SNAP",
+    "weight": 3.4,
+    "company": "SNAP INC - A"
+  },
+  {
+    "ticker": "TREE",
+    "weight": 3.4,
+    "company": "LENDINGTREE INC"
+  },
+  {
+    "ticker": "AAPL",
+    "weight": 3.2,
+    "company": "APPLE INC"
+  },
+  {
+    "ticker": "SHOP",
+    "weight": 3.1,
+    "company": "SHOPIFY INC - CLASS A"
+  },
+  {
+    "ticker": "FB",
+    "weight": 3,
+    "company": "FACEBOOK INC-CLASS A"
+  },
+  {
+    "ticker": "SPLK",
+    "weight": 3,
+    "company": "SPLUNK INC"
+  },
+  {
+    "ticker": "WDAY",
+    "weight": 2.9,
+    "company": "WORKDAY INC-CLASS A"
+  },
+  {
+    "ticker": "INTU",
+    "weight": 2.8,
+    "company": "INTUIT INC"
+  },
+  {
+    "ticker": "OPEN",
+    "weight": 2.7,
+    "company": "OPENDOOR TECHNOLOGIES INC"
+  },
+  {
+    "ticker": "TCS",
+    "weight": 2.5,
+    "company": "TCS GROUP HOLDING-GDR REG S"
+  },
+  {
+    "ticker": "TDOC",
+    "weight": 2.5,
+    "company": "TELADOC HEALTH INC"
+  },
+  {
+    "ticker": "SCHW",
+    "weight": 2.5,
+    "company": "SCHWAB (CHARLES) CORP"
+  },
+  {
+    "ticker": "GWRE",
+    "weight": 2.4,
+    "company": "GUIDEWIRE SOFTWARE INC"
+  },
+  {
+    "ticker": "NVDA",
+    "weight": 2.1,
+    "company": "NVIDIA CORP"
+  },
+  {
+    "ticker": "VRSK",
+    "weight": 1.8,
+    "company": "VERISK ANALYTICS INC"
+  },
+  {
+    "ticker": "MKTX",
+    "weight": 1.6,
+    "company": "MARKETAXESS HOLDINGS INC"
+  }
+]
