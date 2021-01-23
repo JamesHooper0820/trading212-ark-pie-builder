@@ -17,7 +17,7 @@ to make the total pie equal 100%.
 
 After it's done this, the app will do something different depending on whether
 this is the first time the program has ran:
-- If the first time, it will just print out all the shares as they are
+- If the first time, it will just print out all the shares as they are.
 - If not the first time, it will compare the shares to the last time this program
 was ran and print out any new additions or removals from the fund, as well as
 any weight changes. This should make the manual job of updating your pie
