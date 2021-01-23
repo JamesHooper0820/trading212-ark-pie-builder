@@ -29,7 +29,7 @@ program runs.
 ## Prereqs
 - Node installed (13.14+)
 
-## How to use
+## How to use (go to the command line)
 - Type `npm install`
 - Open up `config.js` and change the `arkCode` value to 
 be whatever etf you wish to run this for (it should work for all
